@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋  
+I'm Masum Abbas — a passionate Data Science student at Air University, Islamabad 🇵🇰
 
-<!--
-**Masuminayat/Masuminayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently exploring the world of data analytics, dashboard development, and interactive visualizations using tools like Python, SQL, and Power BI. I’m deeply interested in turning raw data into meaningful insights that solve real-world problems.
 
-Here are some ideas to get you started:
+## My Projects 💻  
+You'll find a mix of academic, personal, and collaborative projects in my profile — from Power BI dashboards to games built in C++ and SFML. I'm always working on something new and love learning through hands-on work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open to Collaborate 🤝  
+I enjoy working with others, sharing ideas, and building meaningful solutions together. If you're working on anything related to data, dashboards, or development — I’d love to connect!
+
+---
+
+📫 **Let's connect!**  
+[LinkedIn](www.linkedin.com/in/masum-abbas)  
+📍 Based in Islamabad, originally from Gilgit — traveling home during vacations!
