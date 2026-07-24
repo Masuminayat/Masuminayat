@@ -113,8 +113,8 @@ I'm a **Data Analyst & Machine Learning Engineer** based in Islamabad, originall
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMasuminayat&label=Public%20Repos&query=%24.public_repos&color=2563eb&style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMasuminayat&label=Followers&query=%24.followers&color=2563eb&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Public%20Repos-17-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/Masuminayat?style=for-the-badge&logo=github&color=2563eb&label=Followers&logoColor=white" />
 <img src="https://img.shields.io/github/last-commit/Masuminayat/stroke-risk-prediction-R?style=for-the-badge&label=Last%20Push&color=2563eb&logo=github&logoColor=white" />
 
 <br><br>
