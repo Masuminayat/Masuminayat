@@ -109,23 +109,6 @@ I'm a **Data Analyst & Machine Learning Engineer** based in Islamabad, originall
 
 <br>
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Public%20Repos-17-2563eb?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/followers/Masuminayat?style=for-the-badge&logo=github&color=2563eb&label=Followers&logoColor=white" />
-<img src="https://img.shields.io/github/last-commit/Masuminayat/stroke-risk-prediction-R?style=for-the-badge&label=Last%20Push&color=2563eb&logo=github&logoColor=white" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,r,cpp,cs,sql&perline=5" />
-
-</div>
-
-</div>
-
-<br>
 
 ## 🤝 Let's Connect
 
