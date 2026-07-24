@@ -113,15 +113,10 @@ I'm a **Data Analyst & Machine Learning Engineer** based in Islamabad, originall
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Masuminayat&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
-
-<br>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Masuminayat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&custom_title=Masum's%20GitHub%20Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masuminayat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masuminayat&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
 
 </div>
 
@@ -133,7 +128,7 @@ I'm a **Data Analyst & Machine Learning Engineer** based in Islamabad, originall
 
 I love working with others on data, dashboards, or development — if that's you, let's build something.
 
-<a href="https://www.linkedin.com/in/masuminayat" target="_blank">
+<a href="https://www.linkedin.com/in/masum-abbas/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Masum%20Abbas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
