@@ -113,8 +113,13 @@ I'm a **Data Analyst & Machine Learning Engineer** based in Islamabad, originall
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Masuminayat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&custom_title=Masum's%20GitHub%20Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masuminayat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMasuminayat&label=Public%20Repos&query=%24.public_repos&color=2563eb&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMasuminayat&label=Followers&query=%24.followers&color=2563eb&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/last-commit/Masuminayat/stroke-risk-prediction-R?style=for-the-badge&label=Last%20Push&color=2563eb&logo=github&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,r,cpp,cs,sql&perline=5" />
 
 </div>
 
